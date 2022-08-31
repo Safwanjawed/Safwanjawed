@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Safwanjawed
 - 👀 I’m interested in coding,writing programs.
-- 🌱 I’m currently learning pythin beginner course
+- 🌱 I’m currently learning pythin beginner course,Java.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me contact me on discord my id is Safwan#4588 or gmail my gmail is jawedsafwan1@gmail.com
 
